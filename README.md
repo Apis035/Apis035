@@ -10,9 +10,9 @@ I can do some things on those languages:
 Tried to learn but gave up/not interested:
 - [C++](https://en.wikipedia.org/wiki/C++) (C is enough)
 - [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
-- [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language)) (best of both imperative and functional language but i'm not comfortable with the syntax)
+- [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language)) (not comfortable with the syntax)
 - [OCaml](https://en.wikipedia.org/wiki/Ocaml) (wasted 2 hours installing the toolchain because it forcing me to have msvc 2019 while i have msvc 2022)
-- [Go](https://en.wikipedia.org/wiki/Go_(programming_language)) (fast compile time but why do they have `var` and `:=` do the same thing. also putting var type after var name without colon)
+- [Go](https://en.wikipedia.org/wiki/Go_(programming_language))
 
 I also browse random github repos occasionally, finding random Windows customization projects and random Blue Archive projects.
 
