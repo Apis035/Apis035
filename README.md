@@ -14,7 +14,7 @@ Tried to learn but gave up/not interested:
 - [OCaml](https://en.wikipedia.org/wiki/Ocaml) (wasted 2 hours installing the toolchain because it forcing me to have msvc 2019 while i have msvc 2022)
 - [Go](https://en.wikipedia.org/wiki/Go_(programming_language))
 
-I also browse random github repos occasionally, finding random Windows customization projects and random Blue Archive projects.
+I also browse random github repos occasionally, finding random Windows customization and Blue Archive projects.
 
 <!---
 Apis035/Apis035 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
