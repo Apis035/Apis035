@@ -1,5 +1,6 @@
 Hi, I do random stuffs on my free time.
-I self taught myself to learn various programming languages and mastered none of them.
+
+Self taught myself to learn various programming languages and mastered none of them.
 
 I can do some things on those languages:
 - [C](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -16,9 +17,11 @@ Tried to learn but gave up/not interested:
 - [OCaml](https://en.wikipedia.org/wiki/Ocaml) (toolchain is pain to install)
 - [Go](https://en.wikipedia.org/wiki/Go_(programming_language))
 
-I also browse random GitHub repos occasionally, finding random Windows customization and Blue Archive projects.
+I can't do web programming: HTML, CSS, JavaScript.
 
-You can contact me on Discord: apis035
+Occasionally browsing random GitHub repos, finding Windows customization and Blue Archive projects.
+
+The only way to contact: apis035 on Discord
 
 <!---
 Apis035/Apis035 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
