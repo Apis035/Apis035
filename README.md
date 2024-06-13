@@ -6,7 +6,7 @@ I'm mostly interested in programming languages that are compiled, easy to use, a
 
 I have no interest in things related to webdev, AI, and whatever else it is that are currently popular that seems like a bloated software.
 
-## Projects
+## ~~Dead~~ Projects
 
 Game Maker:
 - [GMConsole](https://github.com/Apis035/GMConsole) - Allows you to use console in legacy Game Maker projects.
@@ -26,7 +26,19 @@ Other:
 - [osu! MP3 Collector](https://github.com/Apis035/osu-mp3-collector) - Collect every mp3 file from your osu! song files into a single folder.
 - [Keyvibes](https://github.com/Apis035/keyvibes) - Fake keyboard typing sound.
 
-Discord is my only preferred way of contacting. My id is apis035.
+## Environment
+
+- OS: Windows 10 22H2
+- Editor: Sublime Text 4 / Visual Studio Code
+
+<details>
+<summary>Screenshot</summary>
+<IMG src="https://i.imgur.com/vssEHZF.png"  alt="image.png"/>
+</details>
+
+## Contact
+
+- Discord: apis035
 
 <!---
 Apis035/Apis035 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
