@@ -1,10 +1,10 @@
 ## Hello!
 
-I'm a person from Indonesia that loves browsing random interesting open source projects on GitHub that related to programming languages, Blue Archive stuffs, and Windows customization tools.
+I love browsing random interesting open source projects on GitHub that related to programming languages, Blue Archive, and Windows customization.
 
-I'm mostly interested in programming languages that are compiled, easy to use, and fun to write. Mostly uses C and Lua. Currently learning [Odin](https://odin-lang.com). Other languages that I also interested in are [Pluto](https://pluto-lang.org) and [Adept](https://github.com/AdeptLanguage/Adept).
+I'm interested in programming languages that are compiled, easy to use, and fun to write. Mostly uses C and Lua. Currently learning [Odin](https://odin-lang.com). Other languages that I also interested in are [Pluto](https://pluto-lang.org) (what I think Lua is supposed to be) and [Adept](https://github.com/AdeptLanguage/Adept) (compiled language without GC but feels like a dynamic language).
 
-I have no interest in things related to webdev, AI, and whatever else it is that are currently popular that seems like a bloated software.
+I have very little interest in things related to webdev, AI, and whatever else it is that are currently popular that seems like a bloated software.
 
 ## ~~Dead~~ Projects
 
@@ -19,7 +19,7 @@ Minecraft:
 - [Charcoal+](https://github.com/Apis035/charcoal-plus) - Adds coal/charcoal pieces and block.
 
 Blue Archive:
-- [Blue Archive S](https://github.com/Apis035/Blue-Archive-S) - Blue Archive's story mode clone. Currently dead. I have a plan to rewrite this in Odin language.
+- [Blue Archive S](https://github.com/Apis035/Blue-Archive-S) - Blue Archive's story mode clone. Currently dead. Theres a plan to rewrite this in Odin language.
 
 Other:
 - Various osu! storyboard projects written in C# with [storybrew](https://github.com/Damnae/storybrew)
@@ -31,9 +31,10 @@ Other:
 - OS: Windows 10 22H2
 - Editor: Sublime Text 4 / Visual Studio Code
 
+Would've stayed in Windows 8.1, but many modern apps/games have issues running with it.
 <details>
 <summary>Screenshot</summary>
-<IMG src="https://i.imgur.com/vssEHZF.png"  alt="image.png"/>
+<IMG src="https://i.imgur.com/LeA9CrB.png"/>
 </details>
 
 ## Contact
