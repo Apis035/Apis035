@@ -2,7 +2,9 @@
 
 I love browsing random interesting open source projects on GitHub that related to programming languages, Blue Archive, and Windows customization.
 
-I'm interested in programming languages that are compiled, easy to use, and fun to write. Mostly uses C and Lua. Currently learning [Odin](https://odin-lang.com). Other languages that I also interested in are [Pluto](https://pluto-lang.org) (what I think Lua is supposed to be) and [Adept](https://github.com/AdeptLanguage/Adept) (compiled language without GC but feels like a dynamic language).
+I'm interested in programming languages that are compiled, easy to use, and fun to write. Mostly uses C and Lua. Currently learning [Odin](https://odin-lang.com). Other languages that I also interested in are:
+- [Pluto](https://pluto-lang.org) - What I think Lua is supposed to be.
+- [Adept](https://github.com/AdeptLanguage/Adept) - Compiled language without GC but feels like a dynamic language.
 
 I have very little interest in things related to webdev, AI, and whatever else it is that are currently popular that seems like a bloated software.
 
