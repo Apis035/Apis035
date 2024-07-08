@@ -20,16 +20,19 @@ Minecraft:
 
 Blue Archive:
 - [Blue Archive S](https://github.com/Apis035/Blue-Archive-S) - Blue Archive's story mode clone. Currently dead. Theres a plan to rewrite this in Odin language.
+- [BAPlayer](https://github.com/Apis035/BAPlayer) - Blue Arcive soundtrack player with perfect loops.
 
 Other:
 - Various osu! storyboard projects written in C# with [storybrew](https://github.com/Damnae/storybrew)
 - [osu! MP3 Collector](https://github.com/Apis035/osu-mp3-collector) - Collect every mp3 file from your osu! song files into a single folder.
 - [Keyvibes](https://github.com/Apis035/keyvibes) - Fake keyboard typing sound.
+- [iop](https://github.com/Apis035/iop) - Quickly generate a new Odin project.
 
 ## Environment
 
 - OS: Windows 10 22H2
-- Editor: Sublime Text 4 / Visual Studio Code
+- Editor: Sublime Text 4 (Main)/ Visual Studio Code
+- Terminal: Command Prompt
 
 Would've stayed in Windows 8.1, but many modern apps/games have issues running with it.
 <details>
