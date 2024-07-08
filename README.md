@@ -44,7 +44,10 @@ Would've stayed in Windows 8.1, but many modern apps/games have issues running w
 
 ## Contact
 
-- Discord: apis035
+Discord: apis035
+
+If you play [osu!](https://osu.ppy.sh/), the chat feature also works as a chatting platform. Go to [my profile](https://osu.ppy.sh/users/12941916) and press "Send message" button. Theres no need to do such thing as "add friend" before we can start chatting.
+  
 
 <!---
 Apis035/Apis035 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
