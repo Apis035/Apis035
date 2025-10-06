@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apis035&exclude_repo=bluearchive-spine&size_weight=0.8&layout=donut&theme=radical">
+
 ## Hello!
 
 I do random project related to osu!, Blue Archive, and small Windows programs.
