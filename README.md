@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apis035&exclude_repo=bluearchive-spine&size_weight=0.8&layout=donut&theme=radical">
 
-## Hello!
+### Hello!
 
 I do random project related to osu!, Blue Archive, and small Windows programs.
 
@@ -9,7 +9,9 @@ Also looking into [Nim](https://nim-lang.org/) and [Adept](https://github.com/Ad
 
 I have little to no skill in web development stuff.
 
-## Environment
+---
+
+### Environment
 
 - OS: Windows 10
 - Editor: Sublime Text
