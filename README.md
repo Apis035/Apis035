@@ -4,7 +4,7 @@
 
 I'm interested in things related to Minecraft, Blue Archive, and Windows customization.
 
-Mostly write code in [Odin](https://odin-lang.com/), [C](https://en.wikipedia.org/wiki/C_(programming_language)) and ~[Lua](https://www.lua.org/)~ (currently away from Lua).
+Mostly write code in [Odin](https://odin-lang.com/), ~[C](https://en.wikipedia.org/wiki/C_(programming_language)) and [Lua](https://www.lua.org/)~.
 Also looking into [Nim](https://nim-lang.org/) and [Adept](https://github.com/AdeptLanguage/Adept).
 
 I have very little skill in web development.
@@ -12,7 +12,7 @@ I have very little skill in web development.
 ## Environment
 
 - OS: Windows 10
-- Editor: [Sublime Text](https://www.sublimetext.com/) (Odin, Java), [Visual Studio Code](https://code.visualstudio.com/) (everyting else)
+- Editor: [Sublime Text](https://www.sublimetext.com/) (Odin), [Visual Studio Code](https://code.visualstudio.com/) (everything else)
 
 Would've stayed in Windows 8.1 if games and apps I use don't have issues running on it.
 <details>
