@@ -1,10 +1,10 @@
 ## Hello!
 
-<img align="right" src="https://github-stats-extended.vercel.app/api/top-langs?username=Apis035&layout=compact&theme=radical&langs_count=4&hide_progress=true&hide=javascript,game%20maker%20language,terra">
+<img align="right" src="https://github-stats-extended.vercel.app/api/top-langs?username=Apis035&layout=compact&theme=radical&langs_count=4&hide=javascript,game%20maker%20language,terra">
 
 I'm interested in things related to Minecraft, Blue Archive, and Windows customization.
 
-Mostly write code in [Odin](https://odin-lang.com/), ~[C](https://en.wikipedia.org/wiki/C_(programming_language)) and [Lua](https://www.lua.org/)~.
+Mostly write code in [Odin](https://odin-lang.com/), ~[C](https://en.wikipedia.org/wiki/C_(programming_language)), and [Lua](https://www.lua.org/)~.
 Also looking into [Nim](https://nim-lang.org/) and [Adept](https://github.com/AdeptLanguage/Adept).
 
 I have very little skill in web development.
